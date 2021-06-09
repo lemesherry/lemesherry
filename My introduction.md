@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lemesherry
 - 👀 I’m interested in " Coding/ Programming "
-- 🌱 I’m currently learning " C++ "
-- 💞️ I’m looking to collaborate on " source codes "
+- 🌱 I’m currently learning " C++, Javascript "
+- 💞️ I’m looking to collaborate on " Discord bots "
 - 📫 How to reach me " Email: sghoto7@gmail.com " " Instagram : Leme_sherry "
 
 <!---
