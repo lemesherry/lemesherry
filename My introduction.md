@@ -1,6 +1,6 @@
 ‣ 👋 Hi, I’m **Sherry**.
 
-‣ I’m a **Coder/ Programmer**,
+‣ **Coder/ Programmer**,
 
 ‣ currently learning **C++, Javascript**,
 
