@@ -1,8 +1,8 @@
 ‣ 👋 Hi, I’m **Sherry**.
 
-‣ **Coder/ Programmer**,
+‣ **Coder /Programmer**,
 
-‣ currently learning **C++, Javascript**,
+‣ Programming languages that I know </> **C++, Javascript, TypeScript, PHP, HTML, CSS**,
 
 ‣ I’m a **Discord bot developer** looking to collaborate on **Discord bots**,
 
