@@ -6,7 +6,7 @@
 
 ### ABOUT ME:
 
-#### I am a **`Certifie Junior Unity Developer`** and bot developer at **`Discord`**.
+#### I am a **`Certified Junior Unity Developer`** and bot developer at **`Discord`**.
 
 #### I love working with *__Arch Linux__* and open-source software. I write the easiest understandable code just like `Martin Fowler` said: 
 `“`Any fool can write code that a computer can understand. Good programmers write code that humans can understand.`”`
