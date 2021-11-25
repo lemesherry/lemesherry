@@ -6,7 +6,7 @@
 
 ### ABOUT ME:
 
-#### I work as a bot developer at **`Discord`** and currently I am enrolled in **`Junior Unity Developer`** program by **`Gametrain`** sponsored by **`Generation Pakistan`**.
+#### I am a **`Certifie Junior Unity Developer`** and bot developer at **`Discord`**.
 
 #### I love working with *__Arch Linux__* and open-source software. I write the easiest understandable code just like `Martin Fowler` said: 
 `“`Any fool can write code that a computer can understand. Good programmers write code that humans can understand.`”`
