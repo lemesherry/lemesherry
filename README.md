@@ -25,14 +25,14 @@
 
 <p align="center">
 
-<a href="https://github-readme-stats.vercel.app/api?username=lemesherry&count_private=true&show_icons=true&hide=stars&theme=radical&hide_border=true&border_radius=30&title_color=red&icon_color=green&custom_title=My GitHub Stats">
+<a href="https://github.com/lemesherry">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=lemesherry&count_private=true&show_icons=true&hide=stars&theme=radical&hide_border=true&border_radius=30&title_color=red&icon_color=green&custom_title=My GitHub Stats" />
 </a>
 
 <br>
 <br>
 
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=lemesherry&langs_count=6&layout=compact&card_width=350&theme=radical&hide_border=true&border_radius=30&title_color=red&icon_color=green&custom_title=Programming Languages I Use">
+<a href="https://github.com/lemesherry">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemesherry&langs_count=6&layout=compact&card_width=350&theme=radical&hide_border=true&border_radius=30&title_color=red&icon_color=green&custom_title=Programming Languages I Use" />
 </a>
 
@@ -51,7 +51,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lemesherry&repo=Sherry_Bot_Source_Code&theme=radical&hide_border=true&border_radius=30&title_color=red&icon_color=green" />
 </a>
 
-<a href="https://github.com/lemesherry/Sherry_Bot_Source_Code">
+<a href="https://github.com/lemesherry/Counter-Attack-FPS-Shooter">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lemesherry&repo=Counter-Attack-FPS-Shooter&theme=radical&hide_border=true&border_radius=30&title_color=red&icon_color=green" />
 </a>
 
