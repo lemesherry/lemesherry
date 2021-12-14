@@ -1,4 +1,4 @@
-## <p align="center"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40" height="40" /> Hello! There Sherry here.
+### <p align="center"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40" height="40" /> Hello! There Sherry here.
 </p>
 
 <p align="center">
@@ -9,13 +9,14 @@
 <br>
 </p>
 
+----
 
-### ABOUT ME:
+#### **ABOUT ME**:
 
-#### I am a **`Certified Junior Unity Developer`** and bot developer at **`Discord`**.
+##### I am a **`Certified Junior Unity Developer`** and bot developer at **`Discord`**.
 
-#### I love working with *__Arch Linux__* and open-source software. I write the easiest understandable code just like `Martin Fowler` said: 
-`“`Any fool can write code that a computer can understand. Good programmers write code that humans can understand.`”`
+##### I love working with *__Arch Linux__* and open-source software. I write the easiest understandable code just like `Martin Fowler` said: 
+##### `“`Any fool can write code that a computer can understand. Good programmers write code that humans can understand.`”`
 
 
 <br>
@@ -38,6 +39,14 @@
 <br>
 <br>
 
+</p>
+
+----
+
+#### <p align="center"> **SOME OF MY PROJECTS**
+</p>
+
+<p align="center">
 <a href="https://github.com/lemesherry/Sherry_Bot_Source_Code">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lemesherry&repo=Sherry_Bot_Source_Code&theme=radical&hide_border=true&border_radius=30&title_color=red&icon_color=green" />
 </a>
