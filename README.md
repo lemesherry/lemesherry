@@ -27,3 +27,16 @@
  > * Messing around with linux :P
  > * Explore more in unity and other APIs that I have used ( i.e. Youtube, Spotify, Discord ).
 
+
+
+
+[![Repository Card](https://github-readme-stats.vercel.app/api/pin/?username=lemesherry&repo=Sherry_Bot_Source_Code&theme=radical)](https://github.com/lemesherry/Sherry_Bot_Source_Code)
+
+
+<a href="https://github-readme-stats.vercel.app/api?username=lemesherry&count_private=true&show_icons=true&hide=stars&theme=radical&hide_border=true&border_radius=30&title_color=red&text_color=blue&bg_color=DEG,RED,BLUE">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lemesherry&count_private=true&show_icons=true&hide=stars&theme=radical&hide_border=true&border_radius=30&title_color=red&text_color=blue&bg_color=DEG,RED,BLUE" />
+</a>
+<br>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=lemesherry&langs_count=6&layout=compact&theme=radical">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemesherry&langs_count=6&layout=compact&theme=radical" />
+</a>
