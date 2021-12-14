@@ -26,7 +26,7 @@
 <p align="center">
 
 <a href="https://github.com/lemesherry">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=lemesherry&count_private=true&show_icons=true&hide=stars&theme=radical&hide_border=true&border_radius=30&title_color=red&icon_color=green&custom_title=My GitHub Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=lemesherry&count_private=true&show_icons=true&theme=radical&hide_border=true&border_radius=30&title_color=red&icon_color=green&custom_title=My GitHub Stats" />
 </a>
 
 <br>
