@@ -1,4 +1,4 @@
-### <p align="center"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40" height="40" /> Hello! There Sherry here.
+## <p align="center"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40" height="40" /> Hello! There { Sherry } here.
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@
 <br>
 </p>
 
-----
+---
 
 #### **ABOUT ME**:
 
@@ -41,7 +41,7 @@
 
 </p>
 
-----
+---
 
 #### <p align="center"> **SOME OF MY PROJECTS**
 </p>
