@@ -1,5 +1,4 @@
-## <p align="center"> <a href= "https://www.github.com/lemesherry"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40" height="40" /> Hello! there { Sherry } here.
-</p>
+## <p align="center"> <a href= "https://www.github.com/lemesherry"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40" height="40" /> </a> Hello! there { Sherry } here. </p>
 
 <p align="center">
 <a href= "https://www.github.com/lemesherry"> <img src="https://camo.githubusercontent.com/72d61c65a0fdf8444f4f889345e7718682bd858cef9dfba9d56b5e0e9e2ce975/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d5a65726f446973636f726426636f6c6f723d726564" width="140" height="22" />
@@ -25,8 +24,8 @@
 
 <p align="center">
 
-<a href="https://github.com/lemesherry">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=lemesherry&count_private=true&show_icons=true&theme=radical&hide_border=true&border_radius=30&title_color=red&icon_color=green&custom_title=My GitHub Stats" />
+<a href="https://github.com/lemesherry"> 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=lemesherry&count_private=true&show_icons=true&theme=radical&hide_border=true &border_radius=30&title_color=red&icon_color=green&custom_title=My GitHub Stats" />
 </a>
 
 <br>
@@ -43,16 +42,16 @@
 
 ---
 
-#### <p align="center"> **SOME OF MY PROJECTS**
-</p>
+#### <p align="center"> **SOME OF MY PROJECTS** </p>
 
 <p align="center">
+
 <a href="https://github.com/lemesherry/Sherry_Bot_Source_Code">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lemesherry&repo=Sherry_Bot_Source_Code&theme=radical&hide_border=true&border_radius=30&title_color=red&icon_color=green" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lemesherry&repo=Sherry_Bot_Source_Code&theme=radical&hide_border=true&border_radius=30&title_color=red&icon_color=green" />
 </a>
 
 <a href="https://github.com/lemesherry/Counter-Attack-FPS-Shooter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lemesherry&repo=Counter-Attack-FPS-Shooter&theme=radical&hide_border=true&border_radius=30&title_color=red&icon_color=green" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lemesherry&repo=Unity-Projects-Source-Code&theme=radical&hide_border=true&border_radius=30&title_color=red&icon_color=green" />
 </a>
 
 </p>
