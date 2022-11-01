@@ -25,14 +25,14 @@
 <p align="center">
 
 <a href="https://github.com/lemesherry"> 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=lemesherry&count_private=true&show_icons=true&theme=radical&hide_border=true &border_radius=30&title_color=red&icon_color=green&custom_title=My GitHub Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=lemesherry&count_private=true&show_icons=true&theme=radical&hide_border=true&border_radius=30&title_color=red&icon_color=green" />
 </a>
 
 <br>
 <br>
 
 <a href="https://github.com/lemesherry">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemesherry&langs_count=6&layout=compact&card_width=350&theme=radical&hide_border=true&border_radius=30&title_color=red&icon_color=green&custom_title=Programming Languages I Use" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemesherry&langs_count=6&layout=compact&card_width=350&theme=radical&hide_border=true&border_radius=30&title_color=red&icon_color=green" />
 </a>
 
 <br>
