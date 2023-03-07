@@ -12,8 +12,11 @@
 
 #### **ABOUT ME**:
 
-##### I am a **`Certified Unity Game Developer`** and bot developer at **`Discord`**.
+##### Currently I am a **` Chief Community Manager `** at **[True Tech](https://truetech.dk/)**.
 
+<br>
+  
+##### I am also a **Certified Unity Game Developer**, and my Github is mainly based on Game development and Discord bot development.
 ##### I love working with *__Arch Linux__* and open-source software, I love to mess around and learn from new technology specially new game ideas. I like to write the easiest understandable code just like `Martin Fowler` said: 
 ##### `“`Any fool can write code that a computer can understand. Good programmers write code that humans can understand.`”`
 
