@@ -12,7 +12,7 @@
 
 #### **ABOUT ME**:
 
-##### Currently I am a **` Chief Community Manager `** at **[True Tech](https://truetech.dk/)**.
+##### Currently I am currently a **`Director of Games`** at [XRev](https://xrevstudio.com). You can find out more about me on my [LinkedIn profile](https://www.linkedin.com/in/lemesherry/)
 
 <br>
   
