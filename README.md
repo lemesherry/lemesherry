@@ -17,7 +17,7 @@
 ---
 
 #### **ABOUT ME**:
-##### currently holding the role of **Director of Games Development & Publishing** at [XRev](https://xrevstudio.com). For more details about my professional journey, check out my [LinkedIn profile](https://www.linkedin.com/in/lemesherry/).
+##### Currently holding the role of **Director of Games Development & Publishing** at [XRev](https://xrevstudio.com). For more details about my professional journey, check out my [LinkedIn profile](https://www.linkedin.com/in/lemesherry/).
 
 <br>
   
