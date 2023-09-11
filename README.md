@@ -17,15 +17,20 @@
 ---
 
 #### **ABOUT ME**:
-
-##### Currently I am currently a **`Director of Games`** at [XRev](https://xrevstudio.com). You can find out more about me on my [LinkedIn profile](https://www.linkedin.com/in/lemesherry/)
+##### currently holding the role of **Director of Games Development & Publishing** at [XRev](https://xrevstudio.com). For more details about my professional journey, check out my [LinkedIn profile](https://www.linkedin.com/in/lemesherry/).
 
 <br>
   
-##### I am also a **Certified Unity Game Developer**, and my Github is mainly based on Game development and Discord bot development.
-##### I love working with *__Arch Linux__* and open-source software, I love to mess around and learn from new technology specially new game ideas. I like to write the easiest understandable code just like `Martin Fowler` said: 
-##### `“`Any fool can write code that a computer can understand. Good programmers write code that humans can understand.`”`
+##### As a Unity Certified Game Developer, I'm deeply passionate about the world of game development and Discord bot creation, and you'll find my GitHub repository teeming with projects that reflect this enthusiasm.
 
+### What Drives Me:
+
+##### I'm an ardent advocate for open-source software and a devoted user of Arch Linux. My workspace is a canvas for innovation, where I joyfully dive into new technologies, especially those that spark fresh game ideas.
+
+##### One of my core principles is crafting code that's not just comprehensible by computers but, more importantly, by fellow humans. I hold dear the wisdom of Martin Fowler, who once said, `”`Any fool can write code that a computer can understand. Good programmers write code that humans can understand.`”`
+
+###### Feel free to explore my repositories and join me on this exciting journey of creating intelligible, innovative, and captivating softwares!
+###### Note: Please be aware that not all of my projects are publicly accessible on my GitHub profile. Many of the projects I've developed for various organizations remain either private or are hosted on the respective organizations' GitHub repositories. This practice is in line with stringent security measures to safeguard sensitive information.
 
 <br>
 <br>
