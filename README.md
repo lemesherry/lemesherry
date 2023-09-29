@@ -19,9 +19,7 @@
 #### **ABOUT ME**:
 ##### Currently holding the role of **Development Director** at [XRev](https://xrevstudio.com). For more details about my professional journey, check out my [LinkedIn profile](https://www.linkedin.com/in/lemesherry/) or my portfolio [Website](https://lemesherry.com).
 
-<br>
-  
-##### As a Unity Certified Game Developer, I'm deeply passionate about the world of game development and Discord bot creation, and you'll find my GitHub repository teeming with projects that reflect this enthusiasm.
+##### As a Unity Certified Game Developer, I'm deeply passionate about the world of game development, and you'll find my GitHub repository teeming with projects that reflect this enthusiasm & also my skills with developing Discord bots.
 
 ### What Drives Me:
 
