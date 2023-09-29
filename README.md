@@ -17,7 +17,7 @@
 ---
 
 #### **ABOUT ME**:
-##### Currently holding the role of **Development Director** at [XRev](https://xrevstudio.com). For more details about my professional journey, check out my [LinkedIn profile](https://www.linkedin.com/in/lemesherry/).
+##### Currently holding the role of **Development Director** at [XRev](https://xrevstudio.com). For more details about my professional journey, check out my [LinkedIn profile](https://www.linkedin.com/in/lemesherry/) or my portfolio [Website](https://lemesherry.com).
 
 <br>
   
@@ -25,7 +25,7 @@
 
 ### What Drives Me:
 
-##### I'm an ardent advocate for open-source software and a devoted user of Arch Linux. My workspace is a canvas for innovation, where I joyfully dive into new technologies, especially those that spark fresh game ideas.
+##### I'm an ardent advocate for open-source software and a devoted user of Arch Linux (but currently I use macOS). My workspace is a canvas for innovation, where I joyfully dive into new technologies, especially those that spark fresh game ideas.
 
 ##### One of my core principles is crafting code that's not just comprehensible by computers but, more importantly, by fellow humans. I hold dear the wisdom of Martin Fowler, who once said, `”`Any fool can write code that a computer can understand. Good programmers write code that humans can understand.`”`
 
