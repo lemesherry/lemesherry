@@ -1,7 +1,7 @@
 ## <p align="center"> <a href= "https://www.github.com/lemesherry"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40" height="40"/> </a> Hello! there { Sherry } here. </p>
 
 <p align="center">
-<a href="https://www.github.com/lemesherry"> <img src="https://camo.githubusercontent.com/72d61c65a0fdf8444f4f889345e7718682bd858cef9dfba9d56b5e0e9e2ce975/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d5a65726f446973636f726426636f6c6f723d726564" width="140" height="22"/>
+<a href="https://lemesherry.com"> <img src="https://komarev.com/ghpvc/?username=lemesherry&color=dc143c&style=for-the-badge"/> </a>
 <a href="https://lemesherry.com"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/84338798/248064017-3ad3591d-e0b6-40d7-b24e-ea6b54588582.png" width="29" height="29"/> </a>
 <a href="mailto: lemesherry@gmail.com"> <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="29" height="29"/> </a>
 <a href="https://www.github.com/lemesherry"> <img src="https://raw.githubusercontent.com/ZeroDiscord/ZeroDiscord/main/assets/icons/other/github-solid.svg" width="25" height="25"/> </a>
@@ -17,18 +17,18 @@
 ---
 
 #### **ABOUT ME**:
-##### Currently holding the role of **Development Director** at [XRev](https://xrevstudio.com). For more details about my professional journey, check out my [LinkedIn profile](https://www.linkedin.com/in/lemesherry/) or my portfolio [Website](https://lemesherry.com).
+##### Currently holding the role of **Development Director** at [XRevStudio](https://xrevstudio.com). For more details about my professional journey, check out my [LinkedIn profile](https://www.linkedin.com/in/lemesherry/) or my portfolio [Website](https://lemesherry.com).
 
 ##### As a Unity Certified Game Developer, I'm deeply passionate about the world of game development, and you'll find my GitHub repository teeming with projects that reflect this enthusiasm & also my skills with developing Discord bots.
 
 ### What Drives Me:
 
-##### I'm an ardent advocate for open-source software and a devoted user of Arch Linux (but currently I use macOS). My workspace is a canvas for innovation, where I joyfully dive into new technologies, especially those that spark fresh game ideas.
+##### I have a keen interest in using and creating open-source software and was a devoted user of Arch Linux, due to it being so powerful yet open-source (until I found macOS ^_^). My workspace is a canvas for innovation, where I joyfully dive into new technologies, especially those that spark fresh game ideas.
 
 ##### One of my core principles is crafting code that's not just comprehensible by computers but, more importantly, by fellow humans. I hold dear the wisdom of Martin Fowler, who once said, `”`Any fool can write code that a computer can understand. Good programmers write code that humans can understand.`”`
 
-###### Feel free to explore my repositories and join me on this exciting journey of creating intelligible, innovative, and captivating softwares!
-###### Note: Please be aware that not all of my projects are publicly accessible on my GitHub profile. Many of the projects I've developed for various organizations remain either private or are hosted on the respective organizations' GitHub repositories. This practice is in line with stringent security measures to safeguard sensitive information.
+###### Feel free to explore my repositories and join me on this exciting journey of creating intelligent, innovative, and captivating experiences!
+###### Note: Please be aware that not all of my projects are publicly accessible on my GitHub profile. Many of the projects I've developed for various organizations remain either private or, are hosted on the respective organizations' GitHub repositories. This practice is in line with stringent security measures to safeguard sensitive information.
 
 <br>
 <br>
