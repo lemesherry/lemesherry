@@ -1,7 +1,7 @@
 ## <p align="center"> <a href= "https://www.github.com/lemesherry"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40" height="40"/> </a> Hello! there { Sherry } here. </p>
 
 <p align="center">
-<a href="https://lemesherry.com"> <img src="https://komarev.com/ghpvc/?username=lemesherry&color=dc143c&style=for-the-badge"/> </a>
+<a href="https://www.github.com/lemesherry"> <img src="https://komarev.com/ghpvc/?username=lemesherry&color=dc143c&style=for-the-badge"/> </a>
 <a href="https://lemesherry.com"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/84338798/248064017-3ad3591d-e0b6-40d7-b24e-ea6b54588582.png" width="29" height="29"/> </a>
 <a href="mailto: lemesherry@gmail.com"> <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="29" height="29"/> </a>
 <a href="https://www.github.com/lemesherry"> <img src="https://raw.githubusercontent.com/ZeroDiscord/ZeroDiscord/main/assets/icons/other/github-solid.svg" width="25" height="25"/> </a>
