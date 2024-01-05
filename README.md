@@ -1,15 +1,15 @@
 ## <p align="center"> <a href= "https://www.github.com/lemesherry"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40" height="40"/> </a> Hello! there { Sherry } here. </p>
 
 <p align="center">
-<a href="https://www.github.com/lemesherry"> <img src="https://komarev.com/ghpvc/?username=lemesherry&color=dc143c&style=for-the-badge"/> </a>
-<a href="https://lemesherry.com"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/84338798/248064017-3ad3591d-e0b6-40d7-b24e-ea6b54588582.png" width="29" height="29"/> </a>
-<a href="mailto: lemesherry@gmail.com"> <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="29" height="29"/> </a>
-<a href="https://www.github.com/lemesherry"> <img src="https://raw.githubusercontent.com/ZeroDiscord/ZeroDiscord/main/assets/icons/other/github-solid.svg" width="25" height="25"/> </a>
-<a href="https://discord.com/users/584534092901646346"> <img src="https://github.com/ZeroDiscord/ZeroDiscord/raw/main/assets/icons/other/discord-solid.svg" width="25" height="25"/> </a>
-<a href="https://www.linkedin.com/in/lemesherry"> <img src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG1.png" width="25" height="25"/> </a>
-<a href="https://www.instagram.com/lemesherry"> <img src="https://www.edigitalagency.com.au/wp-content/uploads/instagram-logo-svg-vector-for-print.svg" width="25" height="25"/> </a>
-<a href="https://www.pinterest.com/lemesherry"> <img src="https://user-images.githubusercontent.com/84338798/140302859-0746a63f-9341-4c6e-9b65-f2db12696674.png" width="25" height="25"/> </a>
-<a href="https://stackoverflow.com/users/16383056/sherry"> <img src="https://cdn.iconscout.com/icon/free/png-256/stackoverflow-2752065-2284882.png" width="25" height="25"/> </a>
+<a href="https://www.github.com/lemesherry"> <img src="https://komarev.com/ghpvc/?username=lemesherry&color=1E34FF&style=for-the-badge" align="center"/> </a>
+<a href="https://lemesherry.com"> <img src="https://github.com/lemesherry/lemesherry/assets/84338798/28a11453-4167-48dc-948c-194f499527e5" width="40" height="40" align="center"/> </a>
+<a href="mailto: lemesherry@gmail.com"> <img src="https://github.com/lemesherry/lemesherry/assets/84338798/f5c650d3-6ba0-4910-bd8f-47123096a90a" width="40" height="40" align="center"/> </a>
+<a href="https://www.github.com/lemesherry"> <img src="https://github.com/lemesherry/lemesherry/assets/84338798/26eda360-0cdc-4937-bde8-a00fbd32aa36" width="40" height="40" align="center"/> </a>
+<a href="https://discord.com/users/584534092901646346"> <img src="https://github.com/lemesherry/lemesherry/assets/84338798/22b37b5b-d9b5-4439-99cd-f8b8f288f018)" width="40" height="40" align="center"/> </a>
+<a href="https://www.linkedin.com/in/lemesherry"> <img src="https://github.com/lemesherry/lemesherry/assets/84338798/5e1acd99-7144-4c2d-874f-61f0701fee32" width="40" height="40" align="center"/> </a>
+<a href="https://www.instagram.com/lemesherry"> <img src="https://github.com/lemesherry/lemesherry/assets/84338798/7daf9641-8923-454f-a45d-8118ec8bfa5a" width="40" height="40" align="center"/> </a>
+<a href="https://www.pinterest.com/lemesherry"> <img src="https://github.com/lemesherry/lemesherry/assets/84338798/b7fdf44d-a3e3-4ff3-a6f4-1e8f9829ebde" width="40" height="40" align="center"/> </a>
+<a href="https://stackoverflow.com/users/16383056/sherry"> <img src="https://github.com/lemesherry/lemesherry/assets/84338798/c3324ff9-35b0-4a53-89a9-a748a524fd87" width="32" height="36" align="center"/> </a>
 <br>
 <br>
 </p>
