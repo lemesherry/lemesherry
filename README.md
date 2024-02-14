@@ -17,7 +17,6 @@
 ---
 
 #### **ABOUT ME**:
-##### Currently holding the role of **Development Director** at [XRevStudio](https://xrevstudio.com). For more details about my professional journey, check out my [LinkedIn profile](https://www.linkedin.com/in/lemesherry/) or my portfolio [Website](https://lemesherry.com).
 
 ##### As a Unity Certified Game Developer, I'm deeply passionate about the world of game development, and you'll find my GitHub repository teeming with projects that reflect this enthusiasm & also my skills with developing Discord bots.
 
@@ -29,6 +28,9 @@
 
 ###### Feel free to explore my repositories and join me on this exciting journey of creating intelligent, innovative, and captivating experiences!
 ###### Note: Please be aware that not all of my projects are publicly accessible on my GitHub profile. Many of the projects I've developed for various organizations remain either private or, are hosted on the respective organizations' GitHub repositories. This practice is in line with stringent security measures to safeguard sensitive information.
+
+###### Ps: I just love to code and messup with computers.
+
 
 <br>
 <br>
