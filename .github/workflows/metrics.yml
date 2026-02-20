@@ -14,8 +14,8 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      # Pinned to a specific commit SHA for maximum security
-      - uses: lowlighter/metrics@3.34.0
+      # Use latest version
+      - uses: lowlighter/metrics@latest
         with:
           filename: github-metrics.svg
           output_action: none
