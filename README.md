@@ -1,71 +1,69 @@
-## <p align="center"> <a href= "https://www.github.com/lemesherry"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40" height="40"/> </a> Hello! there { Sherry } here. </p>
+<div align="center">
+  
+# Hi there, I'm Sheeraz Khan! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<p align="center">
-<a href="https://www.github.com/lemesherry"> <img src="https://komarev.com/ghpvc/?username=lemesherry&color=1E34FF&style=for-the-badge" align="center"/> </a>
-<a href="https://lemesherry.com"> <img src="https://github.com/lemesherry/lemesherry/assets/84338798/28a11453-4167-48dc-948c-194f499527e5" width="40" height="40" align="center"/> </a>
-<a href="mailto: lemesherry@gmail.com"> <img src="https://github.com/lemesherry/lemesherry/assets/84338798/f5c650d3-6ba0-4910-bd8f-47123096a90a" width="40" height="40" align="center"/> </a>
-<a href="https://www.github.com/lemesherry"> <img src="https://github.com/lemesherry/lemesherry/assets/84338798/26eda360-0cdc-4937-bde8-a00fbd32aa36" width="40" height="40" align="center"/> </a>
-<a href="https://discord.com/users/584534092901646346"> <img src="https://github.com/lemesherry/lemesherry/assets/84338798/22b37b5b-d9b5-4439-99cd-f8b8f288f018)" width="40" height="40" align="center"/> </a>
-<a href="https://www.linkedin.com/in/lemesherry"> <img src="https://github.com/lemesherry/lemesherry/assets/84338798/5e1acd99-7144-4c2d-874f-61f0701fee32" width="40" height="40" align="center"/> </a>
-<a href="https://www.instagram.com/lemesherry"> <img src="https://github.com/lemesherry/lemesherry/assets/84338798/7daf9641-8923-454f-a45d-8118ec8bfa5a" width="40" height="40" align="center"/> </a>
-<a href="https://www.pinterest.com/lemesherry"> <img src="https://github.com/lemesherry/lemesherry/assets/84338798/b7fdf44d-a3e3-4ff3-a6f4-1e8f9829ebde" width="40" height="40" align="center"/> </a>
-<a href="https://stackoverflow.com/users/16383056/sherry"> <img src="https://github.com/lemesherry/lemesherry/assets/84338798/c3324ff9-35b0-4a53-89a9-a748a524fd87" width="32" height="36" align="center"/> </a>
-<br>
-<br>
-</p>
-
----
-
-#### **ABOUT ME**:
-
-##### As a Unity Certified Game Developer, I'm deeply passionate about the world of game development, and you'll find my GitHub repository teeming with projects that reflect this enthusiasm & also my skills with developing Discord bots.
-
-### What Drives Me:
-
-##### I have a keen interest in using and creating open-source software and was a devoted user of Arch Linux, due to it being so powerful yet open-source (until I found macOS ^_^). My workspace is a canvas for innovation, where I joyfully dive into new technologies, especially those that spark fresh game ideas.
-
-##### One of my core principles is crafting code that's not just comprehensible by computers but, more importantly, by fellow humans. I hold dear the wisdom of Martin Fowler, who once said, `”`Any fool can write code that a computer can understand. Good programmers write code that humans can understand.`”`
-
-###### Feel free to explore my repositories and join me on this exciting journey of creating intelligent, innovative, and captivating experiences!
-###### Note: Please be aware that not all of my projects are publicly accessible on my GitHub profile. Many of the projects I've developed for various organizations remain either private or, are hosted on the respective organizations' GitHub repositories. This practice is in line with stringent security measures to safeguard sensitive information.
-
-###### Ps: I just love to code and messup with computers.
+**Lead Game Developer | Unity | C# | VR & XR Enthusiast**
 
 
-<br>
-<br>
+[![Website](https://img.shields.io/badge/Website-lemesherry.com-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lemesherry.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-lemesherry-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lemesherry/)
+[![Email](https://img.shields.io/badge/Email-lemesherry%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lemesherry@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-lemesherry-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/584534092901646346)
+[![Profile Views](https://komarev.com/ghpvc/?username=lemesherry&color=1E34FF&style=for-the-badge)](https://www.github.com/lemesherry)
 
+</div>
 
-<p align="center">
+<br/>
 
-<a href="https://github.com/lemesherry"> 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=lemesherry&count_private=true&show_icons=true&theme=radical&hide_border=true&border_radius=30&title_color=red&icon_color=green" />
-</a>
+## 👨‍💻 About Me
 
-<br>
-<br>
+Hello! I'm a Lead Game Developer based in Lahore, passionate about building worlds people actually want to be in. With over 5 years of experience in Unity and C#, I've turned ideas into real, playable experiences — from mobile offline/multiplayer games to full VR simulations that athletes use to train. 
 
-<a href="https://github.com/lemesherry">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemesherry&langs_count=6&layout=compact&card_width=350&theme=radical&hide_border=true&border_radius=30&title_color=red&icon_color=green" />
-</a>
+Currently, I lead development at **XRev Studio**, where we built **[CricketX](https://cricketx.net)** and **[BaseballX](https://baseballx.co)** — two AI-powered VR sports simulators live on Meta Quest. We built real physics, real swing analytics, and real results for players at every level. 
 
-<br>
-<br>
+Before XRev, I honed my craft at **[Game District](https://gamedistrict.co)** (one of the largest game development companies in Pakistan) and **[Game Train](https://gametrain.org)**, learning what it actually takes to ship things that work. I've led small teams, unblocked stuck sprints, and shipped end-to-end games.
 
-</p>
+*Note: Please be aware that not all of my cool projects are publicly accessible on my GitHub. Many projects developed for various organizations remain private or are hosted on the respective organizations' repositories under NDA.*
 
----
+<br/>
 
-#### <p align="center"> **SOME OF MY PROJECTS** </p>
+## 🛠️ Tools & Technologies
 
-<p align="center">
+<div align="center">
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=unity,cs,dotnet,cpp,git,github,nodejs,react,js,ts,html,css,firebase,rider,androidstudio,apple,windows,linux&perline=9" alt="My Skills" />
+  </a>
+</div>
 
-<a href="https://github.com/lemesherry/Sherry_Bot_Source_Code">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lemesherry&repo=Sherry_Bot_Source_Code&theme=radical&hide_border=true&border_radius=30&title_color=red&icon_color=green" />
-</a>
+<br/>
 
-<a href="https://github.com/lemesherry/Counter-Attack-FPS-Shooter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lemesherry&repo=Unity-Projects-Source-Code&theme=radical&hide_border=true&border_radius=30&title_color=red&icon_color=green" />
-</a>
+## 📈 GitHub Stats
 
-</p>
+<div align="center">
+  <a href="https://github.com/lemesherry">
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=lemesherry&show_icons=true&theme=tokyonight&include_all_commits=true&hide=prs,contribs,issues" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/lemesherry">
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=lemesherry&layout=compact&theme=tokyonight" alt="Top Languages" />
+  </a>
+</div>
+
+<br/>
+
+## 🚀 Featured Projects
+
+<div align="center">
+  <a href="https://cricketx.net">
+    <img src="./assets/cricketx-card.svg" alt="CricketX" />
+  </a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://baseballx.co">
+    <img src="./assets/baseballx-card.svg" alt="BaseballX" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <i>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." — Martin Fowler</i>
+</div>
