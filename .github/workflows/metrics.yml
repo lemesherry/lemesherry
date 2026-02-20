@@ -65,14 +65,6 @@ jobs:
           plugin_habits_charts: yes
           plugin_habits_facts: no
 
-      - name: Optimize SVG
-        env:
-          SVG_OPTIMIZER: ${{ secrets.SVG_OPTIMIZER }}
-        run: |
-          if [ ! -z "$SVG_OPTIMIZER" ]; then
-            eval "$SVG_OPTIMIZER"
-          fi
-
       - name: Commit & Push
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
