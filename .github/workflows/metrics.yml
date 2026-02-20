@@ -15,7 +15,7 @@ jobs:
       - uses: actions/checkout@v4
 
       # Use latest version
-      - uses: lowlighter/metrics@3.34.0
+      - uses: lowlighter/metrics@3.34
         with:
           filename: github-metrics.svg
           output_action: none
