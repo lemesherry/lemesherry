@@ -12,10 +12,10 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@3.34.0
+      - uses: actions/checkout@v4
 
       # Use latest version
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@3.34.0
         with:
           filename: github-metrics.svg
           output_action: none
