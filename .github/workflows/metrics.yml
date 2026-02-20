@@ -1,0 +1,39 @@
+name: Metrics
+on:
+  # Schedule daily updates
+  schedule: [{cron: "0 0 * * *"}]
+  # (optional) Run workflow manually
+  workflow_dispatch:
+  # (optional) Run workflow when pushing on master/main
+  push: {branches: ["master", "main"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics.svg
+          # You'll need to configure a Personal Access Token in your repository secrets named METRICS_TOKEN
+          token: ${{ secrets.METRICS_TOKEN }}
+          
+          # Base stats
+          base: header, activity, community, repositories, metadata
+          base_indepth: yes
+          config_timezone: Asia/Karachi
+
+          # Isometric calendar
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+
+          # Languages
+          plugin_languages: yes
+          plugin_languages_indepth: yes
+          plugin_languages_layout: compact
+          plugin_languages_details: bytes-size, percentage
+
+          # Coding habits
+          plugin_habits: yes
+          plugin_habits_charts: yes
+          plugin_habits_facts: yes

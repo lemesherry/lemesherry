@@ -41,10 +41,7 @@ Before XRev, I honed my craft at **[Game District](https://gamedistrict.co)** (o
 
 <div align="center">
   <a href="https://github.com/lemesherry">
-    <img src="https://github-readme-stats-fast.vercel.app/api?username=lemesherry&show_icons=true&theme=tokyonight&include_all_commits=true&hide=prs,contribs,issues" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/lemesherry">
-    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=lemesherry&layout=compact&theme=tokyonight" alt="Top Languages" />
+    <img src="github-metrics.svg" alt="GitHub Metrics" />
   </a>
 </div>
 
