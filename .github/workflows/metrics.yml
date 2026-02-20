@@ -12,9 +12,12 @@ jobs:
     permissions:
       contents: write
     steps:
+      - uses: actions/checkout@v3
+
       - uses: lowlighter/metrics@latest
         with:
           filename: github-metrics.svg
+          output_action: none
           # You'll need to configure a Personal Access Token in your repository secrets named METRICS_TOKEN
           token: ${{ secrets.METRICS_TOKEN }}
           
@@ -22,9 +25,21 @@ jobs:
           base: header, metadata
           base_indepth: yes
           config_timezone: Asia/Karachi
+          config_display: large
+          
+          # Include private contributions
+          commits_authoring: sheeraz khan, lemesherry@gmail.com
+          
+          # Remove footer
+          plugin_base_wrapper: yes
+          extras_css: |
+            .footer { display: none !important; }
 
           # Lines of code
           plugin_lines: yes
+          plugin_lines_history_limit: 1
+          plugin_lines_repositories_limit: 4
+          plugin_lines_sections: base
 
           # Isometric calendar
           plugin_isocalendar: yes
@@ -46,3 +61,17 @@ jobs:
           plugin_habits: yes
           plugin_habits_charts: yes
           plugin_habits_facts: no
+
+      - name: Optimize SVG
+        env:
+          SVG_OPTIMIZER: ${{ secrets.SVG_OPTIMIZER }}
+        run: |
+          if [ ! -z "$SVG_OPTIMIZER" ]; then
+            eval "$SVG_OPTIMIZER"
+          fi
+
+      - name: Commit & Push
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update github metrics with custom stats"
+          file_pattern: github-metrics.svg
