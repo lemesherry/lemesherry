@@ -28,9 +28,6 @@ jobs:
           config_timezone: Asia/Karachi
           config_display: large
           
-          # Include private contributions
-          commits_authoring: sheeraz khan, lemesherry@gmail.com
-          
           # Remove footer
           plugin_base_wrapper: yes
           extras_css: |
