@@ -56,7 +56,6 @@ Before XRev, I honed my craft at **[Game District](https://gamedistrict.co)** (o
   <a href="https://cricketx.net">
     <img src="./assets/cricketx-card.svg" alt="CricketX" />
   </a>
-
   <a href="https://baseballx.co">
     <img src="./assets/baseballx-card.svg" alt="BaseballX" />
   </a>
