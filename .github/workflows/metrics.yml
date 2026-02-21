@@ -26,7 +26,7 @@ jobs:
           base_indepth: yes
           config_timezone: Asia/Karachi
           config_display: large
-          
+
           # Remove footer
           plugin_base_wrapper: yes
           extras_css: |
