@@ -31,6 +31,10 @@ jobs:
           config_timezone: Asia/Karachi
           config_display: large
           
+          # Debugging silent failures
+          debug: yes
+          plugins_errors_fatal: yes
+          
           # Remove footer
           extras_css: |
             .footer { display: none !important; }
