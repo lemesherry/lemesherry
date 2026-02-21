@@ -14,10 +14,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Force delete old SVG
-        run: rm -f github-metrics.svg
-
-      # Use latest version
+      # Use latest supported version for their setup
       - uses: lowlighter/metrics@v3.34
         with:
           filename: github-metrics.svg
@@ -30,10 +27,6 @@ jobs:
           base_indepth: yes
           config_timezone: Asia/Karachi
           config_display: large
-          
-          # Debugging silent failures
-          debug: yes
-          plugins_errors_fatal: yes
           
           # Remove footer
           extras_css: |
@@ -56,19 +49,12 @@ jobs:
           plugin_languages_limit: 8
           plugin_languages_recent_categories: markup, programming
 
-          # Private and Organization stats processing
+          # Private contributions (the token already has 'repo' scope, so base stats will include them)
           commits_authoring: "sheeraz khan, lemesherry@gmail.com, lemesherry"
-          repositories_affiliations: owner, collaborator, organization_member
 
-
-
-          # Repositories (New!)
-          plugin_repositories: yes
-          plugin_repositories_featured: lemesherry/lemesherry
-
-          # Stargazers (New!)
-          plugin_stargazers: yes
-          plugin_stargazers_charts: yes
+          # Add safe additional plugins that work in v3.34
+          plugin_followup: yes
+          plugin_followup_sections: repositories
 
       - name: Optimize SVG
         env:
