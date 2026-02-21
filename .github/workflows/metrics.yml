@@ -55,14 +55,13 @@ jobs:
 
 
 
-          # Stars (New!)
-          plugin_stars: yes
-          plugin_stars_limit: 4
+          # Repositories (New!)
+          plugin_repositories: yes
+          plugin_repositories_featured: lemesherry/lemesherry
 
-          # Topics (New!)
-          plugin_topics: yes
-          plugin_topics_limit: 15
-          plugin_topics_mode: icons
+          # Stargazers (New!)
+          plugin_stargazers: yes
+          plugin_stargazers_charts: yes
 
       - name: Optimize SVG
         env:
