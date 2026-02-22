@@ -1,11 +1,9 @@
 name: Metrics
 on:
-  # Schedule daily updates
   schedule: [{cron: "0 0 * * *"}]
-  # (optional) Run workflow manually
   workflow_dispatch:
-  # (optional) Run workflow when pushing on master/main
   push: {branches: ["master", "main"]}
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -14,23 +12,44 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: lowlighter/metrics@v3.34
+      - uses: lowlighter/metrics@latest
         with:
           filename: github-metrics.svg
           output_action: none
-          # You'll need to configure a Personal Access Token in your repository secrets named METRICS_TOKEN
           token: ${{ secrets.METRICS_TOKEN }}
-          
-          # Base stats
-          base: header, metadata
-          base_indepth: yes
+
+          # Profile
+          user: lemesherry
+          template: classic
           config_timezone: Asia/Karachi
           config_display: large
+          config_padding: 0, 8 + 11%
 
-          # Remove footer
-          plugin_base_wrapper: yes
+          # Base stats — full overview
+          base: header, activity, community, repositories, metadata
+          base_indepth: yes
+          repositories_forks: no
+          repositories_affiliations: owner, collaborator, organization_member
+
+          # Match all author identities so private and org commits are counted
+          commits_authoring: "sheeraz khan, Sheeraz Khan, lemesherry@gmail.com, lemesherry"
+
+          # Hide footer
           extras_css: |
             .footer { display: none !important; }
+
+          # 3D isometric contribution calendar
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+          # Languages breakdown
+          plugin_languages: yes
+          plugin_languages_indepth: yes
+          plugin_languages_layout: compact
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 8
+          plugin_languages_recent_categories: markup, programming
+          plugin_languages_sections: most-used
 
           # Lines of code
           plugin_lines: yes
@@ -38,32 +57,28 @@ jobs:
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: base
 
-          # Isometric calendar
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
+          # Achievement badges
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: B
 
-          # Languages
-          plugin_languages: yes
-          plugin_languages_indepth: no
-          plugin_languages_layout: compact
-          plugin_languages_details: bytes-size, percentage
-          plugin_languages_limit: 8
-          plugin_languages_recent_categories: markup, programming
-
-          # Private stats processing
-          commits_authoring: "sheeraz khan, lemesherry@gmail.com, lemesherry"
+          # Coding habits (shows when you code most)
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          plugin_habits_charts: yes
+          plugin_habits_charts_type: classic
+          plugin_habits_trim: yes
 
       - name: Optimize SVG
         env:
           SVG_OPTIMIZER: ${{ secrets.SVG_OPTIMIZER }}
         run: |
-          if [ ! -z "$SVG_OPTIMIZER" ]; then
-            # Temporarily disable exit-on-error to prevent 'grep' inside from failing the build
+          if [ -f "github-metrics.svg" ] && [ ! -z "$SVG_OPTIMIZER" ]; then
             set +e
             eval "$SVG_OPTIMIZER"
             set -e
           fi
-          # Ensure step passes smoothly
           exit 0
 
       - name: Commit & Push
