@@ -2,7 +2,7 @@
   
 # Hi there, I'm Sheeraz Khan! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-**Lead Game Developer | Unity | C# | VR & XR Enthusiast**
+**Lead Game Developer | Unity | C#**
 
 
 [![Website](https://img.shields.io/badge/Website-lemesherry.com-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lemesherry.com)
