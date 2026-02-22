@@ -11,8 +11,9 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
-
-      - uses: lowlighter/metrics@latest
+      
+      # Using a very specific version of lowlighter/metrics to avoid the any security risks since the app has the access token with powerfull permissions.
+      - uses: lowlighter/metrics@366f8b9dfe3a59656c67d5dcad9950f59c9bc96d
         with:
           filename: github-metrics.svg
           output_action: none
