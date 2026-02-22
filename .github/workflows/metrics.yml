@@ -52,7 +52,7 @@ jobs:
           plugin_languages_indepth: yes
           plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 10
-          plugin_languages_ignored: html, css
+          plugin_languages_ignored: html, css, scss, less
           plugin_languages_recent_categories: markup, programming
           plugin_languages_sections: most-used
 
@@ -60,13 +60,6 @@ jobs:
           plugin_notable: yes
           plugin_notable_from: all
           plugin_notable_types: commit
-
-          # Recent activity
-          plugin_activity: yes
-          plugin_activity_limit: 5
-          plugin_activity_days: 14
-          plugin_activity_filter: all
-          plugin_activity_visibility: public
 
           # Topics (GitHub skills icons)
           plugin_topics: yes
