@@ -70,6 +70,11 @@ jobs:
           plugin_habits_charts_type: classic
           plugin_habits_trim: yes
 
+      - name: Export SVG from Docker
+        run: |
+          sudo mv /metrics_renders/github-metrics.svg ./
+          sudo chown -R $USER:$USER ./github-metrics.svg
+
       - name: Optimize SVG
         env:
           SVG_OPTIMIZER: ${{ secrets.SVG_OPTIMIZER }}
