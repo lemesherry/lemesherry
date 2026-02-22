@@ -12,8 +12,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: lowlighter/metrics@v3.34
-        id: metrics
+      - uses: lowlighter/metrics@latest
         with:
           filename: github-metrics.svg
           output_action: none
@@ -70,11 +69,6 @@ jobs:
           plugin_habits_charts: yes
           plugin_habits_charts_type: classic
           plugin_habits_trim: yes
-
-      - name: Save SVG
-        env:
-          METRICS_SVG: ${{ steps.metrics.outputs.svg }}
-        run: echo "$METRICS_SVG" > github-metrics.svg
 
       - name: Optimize SVG
         env:
