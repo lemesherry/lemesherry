@@ -39,37 +39,46 @@ jobs:
           extras_css: |
             .footer { display: none !important; }
 
+          # Introduction plugin
+          plugin_introduction: yes
+          plugin_introduction_title: yes
+
           # 3D isometric contribution calendar
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
-          # Languages breakdown
+          # Languages breakdown (Detailed)
           plugin_languages: yes
           plugin_languages_indepth: yes
-          plugin_languages_layout: compact
+          plugin_languages_layout: normal
           plugin_languages_details: bytes-size, percentage
-          plugin_languages_limit: 8
+          plugin_languages_limit: 10
           plugin_languages_recent_categories: markup, programming
-          plugin_languages_sections: most-used
+          plugin_languages_sections: most-used, recently-used
+
+          # Notable contributions
+          plugin_notable: yes
+          plugin_notable_from: all
+          plugin_notable_types: commit
+
+          # Recent activity
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 14
+          plugin_activity_filter: all
+          plugin_activity_visibility: public
+
+          # Topics (GitHub skills icons)
+          plugin_topics: yes
+          plugin_topics_limit: 15
+          plugin_topics_mode: icons
+          plugin_topics_sort: stars
 
           # Lines of code
           plugin_lines: yes
           plugin_lines_history_limit: 1
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: base
-
-          # Achievement badges
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: B
-
-          # Coding habits (shows when you code most)
-          plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_days: 14
-          plugin_habits_charts: yes
-          plugin_habits_charts_type: classic
-          plugin_habits_trim: yes
 
       - name: Export SVG from Docker
         run: |
