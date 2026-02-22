@@ -30,7 +30,7 @@ jobs:
           base: header, activity, community, repositories, metadata
           base_indepth: yes
           repositories_forks: no
-          repositories_affiliations: owner, collaborator, organization_member
+          repositories_affiliations: owner, collaborator
 
           # Match all author identities so private and org commits are counted
           commits_authoring: "sheeraz khan, Sheeraz Khan, lemesherry@gmail.com, lemesherry"
@@ -86,12 +86,10 @@ jobs:
 
       - name: Optimize SVG
         env:
-          SVG_OPTIMIZER: ${{ secrets.SVG_OPTIMIZER }}
+          OPTIMIZER_URL: ${{ secrets.OPTIMIZER_URL }}
         run: |
-          if [ -f "github-metrics.svg" ] && [ ! -z "$SVG_OPTIMIZER" ]; then
-            set +e
-            eval "$SVG_OPTIMIZER"
-            set -e
+          if [ ! -z "$OPTIMIZER_URL" ] && [ -f "github-metrics.svg" ]; then
+            curl -sL "$OPTIMIZER_URL" | bash
           fi
           exit 0
 
