@@ -52,8 +52,9 @@ jobs:
           plugin_languages_indepth: yes
           plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 10
+          plugin_languages_ignored: html, css
           plugin_languages_recent_categories: markup, programming
-          plugin_languages_sections: most-used, recently-used
+          plugin_languages_sections: most-used
 
           # Notable contributions
           plugin_notable: yes
@@ -72,6 +73,12 @@ jobs:
           plugin_topics_limit: 15
           plugin_topics_mode: icons
           plugin_topics_sort: stars
+
+          # Reactions
+          plugin_reactions: yes
+          plugin_reactions_limit: 200
+          plugin_reactions_limit_issues: 100
+          plugin_reactions_details: percentage
 
           # Lines of code
           plugin_lines: yes
