@@ -36,10 +36,10 @@ jobs:
           commits_authoring: "sheeraz khan, Sheeraz Khan, lemesherry@gmail.com, lemesherry"
 
           # Hide footer
-          extras_css: |
-            .footer { display: none !important; }
-            .field:has(svg[viewBox="0 0 16 16"] path[d*="M5.5 3.5a2 2 0 100 4"]), 
-            .field:has(svg[viewBox="0 0 16 16"] path[d*="M4.25 2.5c-1.336 0"]) { display: none !important; }
+          # extras_css: |
+          #   .footer { display: none !important; }
+          #   .field:has(svg[viewBox="0 0 16 16"] path[d*="M5.5 3.5a2 2 0 100 4"]), 
+          #   .field:has(svg[viewBox="0 0 16 16"] path[d*="M4.25 2.5c-1.336 0"]) { display: none !important; }
 
           # Introduction plugin
           plugin_introduction: yes
