@@ -38,6 +38,9 @@ jobs:
           # Hide footer
           extras_css: |
             .footer { display: none !important; }
+            .field:has(svg[viewBox="0 0 16 16"] path[d*="M5.5 3.5a2 2 0 100 4"]), 
+            .field:has(svg[viewBox="0 0 16 16"] path[d*="M4.25 2.5c-1.336 0"]),
+            h3.field { display: none !important; }
 
           # Introduction plugin
           plugin_introduction: yes
@@ -50,7 +53,7 @@ jobs:
           # Languages breakdown (Detailed)
           plugin_languages: yes
           plugin_languages_indepth: yes
-          plugin_languages_details: bytes-size, percentage
+          plugin_languages_details: percentage
           plugin_languages_limit: 10
           plugin_languages_ignored: html, css, scss, less
           plugin_languages_recent_categories: markup, programming
@@ -60,12 +63,6 @@ jobs:
           plugin_notable: yes
           plugin_notable_from: all
           plugin_notable_types: commit
-
-          # Topics (GitHub skills icons)
-          plugin_topics: yes
-          plugin_topics_limit: 15
-          plugin_topics_mode: icons
-          plugin_topics_sort: stars
 
           # Reactions
           plugin_reactions: yes
