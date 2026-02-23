@@ -74,14 +74,14 @@ jobs:
           sudo mv /metrics_renders/github-metrics.svg ./
           sudo chown -R $USER:$USER ./github-metrics.svg
 
-      - name: Optimize SVG
-        env:
-          OPTIMIZER_URL: ${{ secrets.OPTIMIZER_URL }}
-        run: |
-          if [ ! -z "$OPTIMIZER_URL" ] && [ -f "github-metrics.svg" ]; then
-            curl -sL "$OPTIMIZER_URL" | bash
-          fi
-          exit 0
+      # - name: Optimize SVG
+      #   env:
+      #     OPTIMIZER_URL: ${{ secrets.OPTIMIZER_URL }}
+      #   run: |
+      #     if [ ! -z "$OPTIMIZER_URL" ] && [ -f "github-metrics.svg" ]; then
+      #       curl -sL "$OPTIMIZER_URL" | bash
+      #     fi
+      #     exit 0
 
       - name: Commit & Push
         uses: stefanzweifel/git-auto-commit-action@v5
