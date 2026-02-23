@@ -54,7 +54,7 @@ jobs:
           plugin_languages_indepth: yes
           plugin_languages_details: percentage
           plugin_languages_limit: 10
-          plugin_languages_ignored: objective-c, procfile, glsl, wolfram language, makefile, shell, less, scss
+          plugin_languages_ignored: objective-c, procfile, glsl, wolfram language, makefile, shell, less, scss, css
           plugin_languages_recent_categories: markup, programming
           plugin_languages_sections: most-used
 
