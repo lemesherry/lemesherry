@@ -45,7 +45,7 @@ jobs:
 
           # 3D isometric contribution calendar
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+          plugin_isocalendar_duration: half-year
 
           # Languages breakdown (Detailed)
           plugin_languages: yes
