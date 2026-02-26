@@ -22,7 +22,7 @@ jobs:
           # Profile
           user: lemesherry
           template: classic
-          config_display: regular
+          config_display: large
           config_padding: 0, 0
 
           # Base stats — full overview
