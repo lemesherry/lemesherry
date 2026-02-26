@@ -66,8 +66,8 @@ jobs:
           # Lines of code
           plugin_lines: yes
           plugin_lines_history_limit: 5
-          plugin_lines_repositories_limit: 100
-          plugin_lines_delay: 10
+          plugin_lines_repositories_limit: 1000
+          plugin_lines_delay: 50
           plugin_lines_sections: base
 
       - name: Export SVG from Docker
