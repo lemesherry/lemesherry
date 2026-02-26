@@ -22,13 +22,13 @@ jobs:
           # Profile
           user: lemesherry
           template: classic
-          config_timezone: Asia/Karachi
-          config_display: large
-          config_padding: 0, 10%
+          config_display: columns
+          config_padding: 0
 
           # Base stats — full overview
           base: header, activity, community, repositories, metadata
           base_indepth: yes
+          repositories_batch: 20
           repositories_forks: no
           repositories_affiliations: owner, collaborator
 
