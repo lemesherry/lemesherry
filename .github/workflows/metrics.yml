@@ -55,7 +55,7 @@ jobs:
           plugin_languages_indepth: yes
           plugin_languages_analysis_timeout: 50
           plugin_languages_analysis_timeout_repositories: 10
-          plugin_languages_ignored: objective-c, procfile, glsl, wolfram language, makefile, shell
+          plugin_languages_ignored: css, procfile, glsl, wolfram language, makefile, shell
           plugin_languages_categories: markup, programming
           
           # Notable contributions
