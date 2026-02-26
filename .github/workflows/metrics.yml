@@ -22,8 +22,8 @@ jobs:
           # Profile
           user: lemesherry
           template: classic
-          config_display: columns
-          config_padding: 0
+          config_display: regular
+          config_padding: 0, 0
 
           # Base stats — full overview
           base: header, activity, community, repositories, metadata
